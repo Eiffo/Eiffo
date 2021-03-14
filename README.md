@@ -1,7 +1,7 @@
 Hello, folks! 👋
 
-My name is Sebastian Sporek and I'm in Python/C++ developer. I'm from Poland and currently learning how to code by my hand.
-For now, I don't have any commercial experience, but I'm really in coding.
+My name is Sebastian Sporek, my age is 19 and I'm a jurnior software developer. I'm from Poland and currently learning how to code by my hand.
+For now, I don't have any commercial experience, but I really enjoy coding. I've done many courses to know somethink about IT world.
 
 🔧 Technologies & Tools
 
