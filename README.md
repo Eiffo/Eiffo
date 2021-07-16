@@ -6,7 +6,7 @@
 My name is Sebastian Sporek, my age is 19 and I'm a jurnior software developer. I'm from Poland and currently learning how to code by my hand.
 For now, I dont't work in any company, but I really enjoy coding and ofc in this time I'm looking for job. I've done many courses to know somethink about IT world.
 
-<h3>🔧 Technologies</h3>
+<h3>🔧 Technologies:</h3>
 <br>
 Frontend:
 
