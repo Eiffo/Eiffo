@@ -7,14 +7,14 @@ My name is Sebastian Sporek, my age is 19 and I'm a jurnior software developer. 
 For now, I dont't work in any company, but I really enjoy coding and ofc in this time I'm looking for job. I've done many courses to know somethink about IT world.
 
 <h3>🔧 Technologies</h3>
-\
+<br>
 Frontend:
 
 <div>
   <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic'/>
   <img alt='CSS3' src='https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=plastic'/>
 </div>
-\
+<br>
 Backend:
 
 <div>
@@ -23,7 +23,7 @@ Backend:
   <img alt='Django' src='https://img.shields.io/badge/-Django-181717?style=flat&logo=django&logoColor=white&style=plastic'/>
   <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql&logoColor=white&style=plastic'/>
 </div>
-\
+<br>
 Utilities:
 
 <div>
