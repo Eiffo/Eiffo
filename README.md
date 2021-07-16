@@ -8,13 +8,15 @@ For now, I dont't work in any company, but I really enjoy coding and ofc in this
 
 <h3>🔧 Technologies</h3>
 
+
 Frontend:
 
 <div>
   <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic'/>
   <img alt='CSS3' src='https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=plastic'/>
 </div>
-  
+
+
 Backend:
 
 <div>
@@ -24,6 +26,7 @@ Backend:
   <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql&logoColor=white&style=plastic'/>
 </div>
 
+
 Utilities:
 
 <div>
@@ -32,4 +35,3 @@ Utilities:
   <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic'/>
   <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic'/>
 </div>
-  
