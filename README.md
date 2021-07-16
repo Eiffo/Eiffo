@@ -1,11 +1,11 @@
-<p>Hello, folks! 👋</p>
+<h1>Hello, folks! 👋</h1>
 
-<h1>About Me</h1>
+<h2>About Me</h2>
 
 My name is Sebastian Sporek, my age is 19 and I'm a jurnior software developer. I'm from Poland and currently learning how to code by my hand.
 For now, I dont't work in any company, but I really enjoy coding and ofc in this time I'm looking for job. I've done many courses to know somethink about IT world.
 
-<h2>🔧 Technologies</h2>
+<h3>🔧 Technologies</h3>
 
 Frontend:
 
@@ -21,7 +21,7 @@ Backend:
 
 Utilities:
 
-![](https://img.shields.io/badge/Code-Ubuntu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
