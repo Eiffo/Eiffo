@@ -27,6 +27,8 @@ Backend:
 Utilities:
 
 <div>
-  <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-orange'/>
   <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic'/>
+  <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic'/>
+  <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic'/>
+  <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-orange'/>
 </div>
