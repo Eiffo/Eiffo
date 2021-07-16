@@ -23,5 +23,5 @@ Utilities:
 
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.github.io/badge/-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)]
 ![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
