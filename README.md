@@ -11,19 +11,26 @@ For now, I dont't work in any company, but I really enjoy coding and ofc in this
 
 Frontend:
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+<div>
+  <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic'/>
+  <img alt='CSS3' src='https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=plastic'/>
+</div>
+  
 Backend:
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<div>
+  <img alt='Python' src='https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white&style=plastic'/>
+  <img alt='C++' src='https://img.shields.io/badge/-C++-181717?style=flat&logo=c++&logoColor=white&style=plastic'/>
+  <img alt='Django' src='https://img.shields.io/badge/-Django-181717?style=flat&logo=django&logoColor=white&style=plastic'/>
+  <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql&logoColor=white&style=plastic'/>
+</div>
 
 Utilities:
 
-![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<div>
+  <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-orange'/>
+  <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic'/>
+  <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic'/>
+  <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic'/>
+</div>
+  
