@@ -1,6 +1,5 @@
-<center>
-  <h1>Hello, folks! 👋</h1>
-</center>
+<h1>Hello, folks! 👋</h1>
+
 
 <h2>About Me</h2>
 
