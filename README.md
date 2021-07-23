@@ -3,8 +3,8 @@
 
 <h2>About Me</h2>
 
-My name is Sebastian Sporek, my age is 19 and I'm a jurnior software developer. I'm from Poland and currently learning how to code by my hand.
-For now, I'm workless, but I really enjoy coding and want to join in to the company. I've done many courses for this objective and I hope it'll be enough.
+My name is Sebastian Sporek, my age is 19 and I'm a Jurnior Software Developer. I'm from Poland and currently learning how to code by my hand.
+For now, I'm workless, but I really enjoy coding and want to join in to the company. I've done many courses for this objective.
 
 <hr>
 <br>
