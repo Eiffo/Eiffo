@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 
 My name is Sebastian Sporek, my age is 19 and I'm a Junior Software Developer. I'm from Poland and currently learning how to code by my hand.
-Also I'm student of IT who's looking for new job.
+Also I'm student of IT who's looking for a new job.
 
 <hr>
 <br>
