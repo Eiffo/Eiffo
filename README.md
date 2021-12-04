@@ -35,3 +35,8 @@ Utilities:
   <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic'/>
   <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white&style=plastic'/>
 </div>
+
+
+Pages where I practice:
+Hakerrank: https://www.hackerrank.com/sebastian_spv2
+Codewars: https://www.codewars.com/users/Eiffo
