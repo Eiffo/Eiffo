@@ -39,6 +39,8 @@ Utilities:
 <br>
 <div>
   Pages where I practice:
+  <br>
   Hakerrank: https://www.hackerrank.com/sebastian_spv2
+  <br>
   Codewars: https://www.codewars.com/users/Eiffo
 </div>
