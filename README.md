@@ -36,7 +36,9 @@ Utilities:
   <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white&style=plastic'/>
 </div>
 
-
-Pages where I practice:
-Hakerrank: https://www.hackerrank.com/sebastian_spv2
-Codewars: https://www.codewars.com/users/Eiffo
+<br>
+<div>
+  Pages where I practice:
+  Hakerrank: https://www.hackerrank.com/sebastian_spv2
+  Codewars: https://www.codewars.com/users/Eiffo
+</div>
