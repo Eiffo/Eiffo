@@ -43,7 +43,5 @@ Utilities:
   <br>
   Hakerrank: https://www.hackerrank.com/sebastian_spv2
   <br>
-  Codewars: https://www.codewars.com/users/Eiffo
-  <br>
   CTFLearn: https://ctflearn.com/user/Eiffo
 </div>
