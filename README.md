@@ -3,8 +3,8 @@
 
 <h2>About Me</h2>
 
-My name is Sebastian, my age is 20 and I'm a Junior Software Developer. I'm from Poland and currently learning how to code by my hand.
-Also I'm student of IT.
+My name is Sebastian, my age is 20 and I want to be a Junior Python Developer. I'm from Poland and currently learning how to code by my hand.
+Also I'm student of IT in Cracow.
 
 <hr>
 <br>
