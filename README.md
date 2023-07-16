@@ -14,28 +14,30 @@ Also I'm student of IT in Cracow.
 Frontend:
 
 <div>
-  <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic'/>
-  <img alt='CSS3' src='https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=plastic'/>
+  <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-181717?logo=html5&logoColor=white&style=plastic'/>
+  <img alt='CSS3' src='https://img.shields.io/badge/-CSS-181717?logo=css3&logoColor=white&style=plastic'/>
 </div>
 <br>
 Backend:
 
 <div>
   <img alt='Python' src='https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white&style=plastic'/>
-  <img alt='C++' src='https://img.shields.io/badge/-C++-181717?style=flat&logo=c&logoColor=white&style=plastic'/>
-  <img alt='Django' src='https://img.shields.io/badge/-Django-181717?style=flat&logo=django&logoColor=white&style=plastic'/>
   <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql&logoColor=white&style=plastic'/>
+  <img alt='Java' src='https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk&logoColor=white&style=plastic'/>
+  
+  <img alt='Django' src='https://img.shields.io/badge/-Django-181717?style=flat&logo=django&logoColor=white&style=plastic'/>
+  <img alt='C++' src='https://img.shields.io/badge/-C++-181717?style=flat&logo=c&logoColor=white&style=plastic'/>
 </div>
 <br>
 Utilities:
 
 <div>
-  <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic'/>
-  <img alt='Microsoft SQL Server Management Studio' src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-     server&logoColor=white'/>
+  <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-181717?style=flat&logo=visual-studio-code&logoColor=white&style=plastic'/>
+  <img alt='Microsoft SQL Server Management Studio' src='https://img.shields.io/badge/Microsoft_SQL_Server-181717?style=flat&logo=microsoft-sql-server&logoColor=white&style=plastic'/>
   
-  <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic'/>
+  <img alt='Git' src='https://img.shields.io/badge/-Git-181717?logo=git&logoColor=white&style=plastic'/>
   <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic'/>
-  <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white&style=plastic'/>
+  <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-181717?style=flat&logo=ubuntu&logoColor=white&style=plastic'/>
 </div>
 
 <br>
