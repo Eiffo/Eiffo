@@ -22,6 +22,7 @@ Backend:
 
 <div>
   <img alt='Python' src='https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white&style=plastic'/>
+  <br>
   <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql&logoColor=white&style=plastic'/>
   <img alt='Java' src='https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk&logoColor=white&style=plastic'/>
   
