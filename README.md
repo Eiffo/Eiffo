@@ -24,13 +24,16 @@ Backend:
   <img alt='Python' src='https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white&style=plastic'/>
   <img alt='C++' src='https://img.shields.io/badge/-C++-181717?style=flat&logo=c&logoColor=white&style=plastic'/>
   <img alt='Django' src='https://img.shields.io/badge/-Django-181717?style=flat&logo=django&logoColor=white&style=plastic'/>
-  <img alt='SQL' src='https://img.shields.io/badge/-SQL-181717?style=flat&logo=sql&logoColor=white&style=plastic'/>
+  <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql&logoColor=white&style=plastic'/>
 </div>
 <br>
 Utilities:
 
 <div>
   <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic'/>
+  <img alt='Microsoft SQL Server Management Studio' src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-    
+                                                         server&logoColor=white'/>
+  
   <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic'/>
   <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic'/>
   <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white&style=plastic'/>
