@@ -24,7 +24,7 @@ Backend:
   <img alt='Python' src='https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white&style=plastic'/>
   <img alt='C++' src='https://img.shields.io/badge/-C++-181717?style=flat&logo=c&logoColor=white&style=plastic'/>
   <img alt='Django' src='https://img.shields.io/badge/-Django-181717?style=flat&logo=django&logoColor=white&style=plastic'/>
-  <img alt='MySQL' src='https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql&logoColor=white&style=plastic'/>
+  <img alt='SQL' src='https://img.shields.io/badge/-SQL-181717?style=flat&logo=mysql&logoColor=white&style=plastic'/>
 </div>
 <br>
 Utilities:
