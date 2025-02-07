@@ -3,8 +3,7 @@
 
 <h2>About Me</h2>
 
-My name is Sebastian, my age is 21 and I want to be a Junior Python Developer. I'm from Poland and currently learning how to code by my hand.
-Also I'm student of IT in Cracow.
+Hi, I'm Sebastian, a 23-year-old aspiring Junior Python Developer from Poland. I'm currently learning how to code by my hand and studying IT in Cracow.
 
 <hr>
 <br>
