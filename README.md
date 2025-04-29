@@ -3,7 +3,7 @@
 
 <h2>About Me</h2>
 
-Hi, I'm Sebastian, a 23-year-old aspiring Junior Python Developer from Poland. I'm currently learning how to code by my hand and studying IT in Cracow.
+Junior developer with a degree in computer science, currently self-learning and building personal projects. Eager to grow and gain commercial experience.
 
 <hr>
 <br>
